@@ -71,8 +71,8 @@
 
 ### Installation
 
-1. Clone the repo
-``h
+1. Clone the repository
+
 git clone https://github.com/Himanshusinghtomar/customer_discount
 ```
 
