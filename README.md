@@ -119,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Himanshu Singh Tomar - [@himanshu_tomar4](https://twitter.com/himanshu_tomar4?s=08) - email
 
 Project Link: [https://github.com/Himanshusinghtomar/customer_discount](https://github.com/Himanshusinghtomar/customer_discount)
 
